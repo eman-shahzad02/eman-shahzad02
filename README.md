@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Eman Shahzad 👋
 
-<!--
-**eman-shahzad02/eman-shahzad02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in exploring different areas of technology and building practical projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Computer Science background
+* 🤖 Worked on an AI-based Expense Manager as my Final Year Project
+* 📱 Experience working on a cross-platform transport management application
+* 📊 Interested in Data Analytics, Data Science, and Machine Learning
+* 🌱 Continuously learning and exploring new technologies
+
+## Areas of Interest
+
+* Artificial Intelligence
+* Mobile Application Development
+* Data Analytics and Data Science
+* Machine Learning
+
+## Projects
+
+My projects and their documentation will be available in the repositories on my profile.
+
+## Connect
+
+* GitHub: [@eman-shahzad02](https://github.com/eman-shahzad02)
+
