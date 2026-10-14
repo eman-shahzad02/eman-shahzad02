@@ -12,14 +12,15 @@ I'm a Computer Science student interested in exploring different areas of techno
 
 ## Featured Projects
 
-## AI Expense Manager
+### [AI Expense Manager](https://github.com/eman-shahzad02/AI-expense-manager)
 
 An AI-powered expense management web application developed as my Final Year Project.
 
 ## NFGT Transport Manager
 
 An ongoing company project focused on logistics and fleet management.Development and testing are in progress.
-Source code for the NFGT project is private.
+# Status:In progress
+# Source code: Private
 
 ## Areas of Interest
 
@@ -27,10 +28,6 @@ Source code for the NFGT project is private.
 * Mobile Application Development
 * Data Analytics and Data Science
 * Machine Learning
-
-## Projects
-
-My projects and their documentation will be available in the repositories on my profile.
 
 ## Connect
 
