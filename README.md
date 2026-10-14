@@ -12,11 +12,11 @@ I'm a Computer Science student interested in exploring different areas of techno
 
 Featured Projects
 
-AI Expense Manager
+* AI Expense Manager* 
 
 An AI-powered expense management web application developed as my Final Year Project.
 
-NFGT Transport Manager
+* NFGT Transport Manager* 
 
 An ongoing company project focused on logistics and fleet management. Development and testing are in progress.
 Source code for the NFGT project is private.
